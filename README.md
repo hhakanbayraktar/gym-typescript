@@ -1,6 +1,6 @@
-# gym-typescript
+# EVOGYM
 
-Vite + React + TypeScript
+React Gym App
 
 # Resource
 
